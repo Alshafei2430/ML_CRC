@@ -11,3 +11,5 @@
 - **Clustering** 
   - <a href='https://github.com/Alshafei2430/ML_CRC/blob/main/Cluster/k_means.py'>K-means</a>
   - <a href='https://github.com/Alshafei2430/ML_CRC/blob/main/Cluster/hierarchical.ipynb'>Hierarchical Clustering</a>
+- **Neural Networks**
+  - <a href='https://github.com/Alshafei2430/ML_CRC/blob/main/NN/ANN.py'>ANN</a>
